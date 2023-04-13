@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AngularLump", "AngularLump"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularLump", "AngularLump\AngularLump.csproj", "{8A9AC5FC-1B4A-4CFD-8674-33457EB4170F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingWindowsAuthentication", "UsingWindowsAuthentication\UsingWindowsAuthentication.csproj", "{39CCA0AC-3048-458B-93CB-453E26AF625F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{8A9AC5FC-1B4A-4CFD-8674-33457EB4170F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A9AC5FC-1B4A-4CFD-8674-33457EB4170F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A9AC5FC-1B4A-4CFD-8674-33457EB4170F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CCA0AC-3048-458B-93CB-453E26AF625F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CCA0AC-3048-458B-93CB-453E26AF625F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CCA0AC-3048-458B-93CB-453E26AF625F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CCA0AC-3048-458B-93CB-453E26AF625F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
