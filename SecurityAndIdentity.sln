@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularLump", "AngularLump\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingWindowsAuthentication", "UsingWindowsAuthentication\UsingWindowsAuthentication.csproj", "{39CCA0AC-3048-458B-93CB-453E26AF625F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AzureAuthentication", "AzureAuthentication", "{7DCDE3AF-CFEC-4961-B4C9-775F860FC16B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAuthentication", "AzureAuthentication\AzureAuthentication.csproj", "{FF97F27D-5264-46D6-A95A-05B9BB5D09FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,10 @@ Global
 		{39CCA0AC-3048-458B-93CB-453E26AF625F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39CCA0AC-3048-458B-93CB-453E26AF625F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39CCA0AC-3048-458B-93CB-453E26AF625F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF97F27D-5264-46D6-A95A-05B9BB5D09FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF97F27D-5264-46D6-A95A-05B9BB5D09FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF97F27D-5264-46D6-A95A-05B9BB5D09FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF97F27D-5264-46D6-A95A-05B9BB5D09FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -71,6 +79,7 @@ Global
 		{24B7A133-BBE6-45B6-A8F5-1B77D0B72DF5} = {FC628028-E581-4AFB-AB7E-76F2A4DA0437}
 		{E74CDA32-2BB1-40B7-8915-890BB39A4100} = {FC628028-E581-4AFB-AB7E-76F2A4DA0437}
 		{8A9AC5FC-1B4A-4CFD-8674-33457EB4170F} = {A4E412E3-8F58-4295-9379-A212F16DCEA6}
+		{FF97F27D-5264-46D6-A95A-05B9BB5D09FC} = {7DCDE3AF-CFEC-4961-B4C9-775F860FC16B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BADF5589-75E1-4B9F-B902-61DF2A046879}
